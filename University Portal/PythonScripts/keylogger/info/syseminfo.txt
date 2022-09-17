@@ -1,0 +1,10 @@
+Public IP Address: 27.100.15.164Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: Nightwalkerz
+Private IP Address: 192.168.56.1
+Public IP Address: 27.100.15.131Processor: Intel64 Family 6 Model 142 Stepping 10, GenuineIntel
+System: Windows 10.0.19043
+Machine: AMD64
+Hostname: Nightwalkerz
+Private IP Address: 192.168.56.1
